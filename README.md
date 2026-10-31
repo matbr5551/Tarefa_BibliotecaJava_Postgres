@@ -1,6 +1,6 @@
 # Tarefa/atividade obrigatória do curso Full Stack Júnior +praTi (2026)
 
-- Na pasta <code>src</code> está o projeto da biblioteca com as respectivas classes (Tarefa 1).
+- Na pasta <code>src</code> está o projeto da biblioteca com as respectivas classes (Tarefa 1). Projeto utiliza o Java SDK 21, e utilizado a IDE _IntelliJ IDEA._ 
 - No arquivo <code>script_banco.sql</code> estão os itens das Tarefas 2 e 3.
 
 ## Abaixo, imagens do Banco de Dados (PostgreSQL com gerenciador DBeaver) - *TAREFA 2*
